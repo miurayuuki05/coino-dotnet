@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coins-webapp", "coins-webapp\coins-webapp\coins-webapp.csproj", "{B1AB6CB1-76C1-4C43-93B9-020EDD9F0DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coins-webapp.Client", "coins-webapp\coins-webapp.Client\coins-webapp.Client.csproj", "{A6D78B28-C062-4BCE-9CF7-30AF6BA9486C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1AB6CB1-76C1-4C43-93B9-020EDD9F0DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AB6CB1-76C1-4C43-93B9-020EDD9F0DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AB6CB1-76C1-4C43-93B9-020EDD9F0DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AB6CB1-76C1-4C43-93B9-020EDD9F0DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D78B28-C062-4BCE-9CF7-30AF6BA9486C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D78B28-C062-4BCE-9CF7-30AF6BA9486C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D78B28-C062-4BCE-9CF7-30AF6BA9486C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D78B28-C062-4BCE-9CF7-30AF6BA9486C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232A75E8-BD42-4F5B-989A-125DA58F8027}
+	EndGlobalSection
+EndGlobal
